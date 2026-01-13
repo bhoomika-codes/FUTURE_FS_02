@@ -85,6 +85,3 @@ Images used are sourced from free stock image platforms and customized to match 
 **Bhoomika B**  
 Full Stack Web Development Intern  
 Future Interns
-
-## 📂 Project Structure
-
